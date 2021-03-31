@@ -1,0 +1,11 @@
+# hello1 = print('hello1')
+# hello2 = print('hello2')
+
+# x='buffalo'
+# exec("%s = %d" % (,))
+
+# print(buffalo)
+
+lis = ['hello', 'world']
+lis[1] = 'hi'
+print(lis)

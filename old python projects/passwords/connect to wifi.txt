@@ -1,0 +1,4 @@
+from wireless import Wireless
+
+wire = Wireless()
+wire.connect(ssid='Red',password='00000000')
